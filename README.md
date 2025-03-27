@@ -1,4 +1,1 @@
-# Bluetooth-device-is-ready-to-pair
-
-Linha nova depois da mudança
-new mudança
+Uma atividade bem básica que passaram na aula
